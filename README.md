@@ -38,9 +38,9 @@ A comprehensive full-stack healthcare platform designed to streamline hospital w
 
 ## 📁 Code Repositories
 
-- 🔗 **Frontend GitHub**: [github.com/Team30HAD/Frontend](https://github.com/Team30HAD/Frontend)
-- 🔗 **Backend GitHub**: [github.com/Team30HAD/Backend](https://github.com/Team30HAD/Backend)
-- 📹 **Demo Recording**: [Click here to view demo](https://drive.google.com/file/d/1XRSq-Sk_MKD-GuF7nIpLVwMK_pUG3znx/view?usp=sharing)
+- 🔗 **Frontend GitHub**: [github.com/Team30HAD/Frontend](https://github.com/Team30HAD/HISFrontend.git)
+- 🔗 **Backend GitHub**: [github.com/Team30HAD/Backend](https://github.com/Team30HAD/HISBackend.git)
+- 📹 **Demo Recording**: [Click here to view demo](https://drive.google.com/drive/folders/1aN6RcrAnKwic-P8HabNnfoDtTA1CUnYU?usp=drive_link)
 
 ---
 
